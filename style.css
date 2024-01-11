@@ -1,0 +1,14 @@
+.navbar-brand {
+  font-family: 'Nueva Fuente', Fantasy;
+}
+
+#carouselExampleCaptions {
+    max-width: 800px; /* Establece el ancho máximo del carrusel según tus necesidades */
+    margin: auto; /* Centra el carrusel horizontalmente */
+  }
+  
+  #carouselExampleCaptions .carousel-item img {
+    width: auto;
+    max-width: 100%; /* Hace que las imágenes se ajusten al ancho máximo disponible */
+    height: auto; /* Ajusta la altura automáticamente para mantener la proporción */
+  }
